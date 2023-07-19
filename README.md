@@ -7,9 +7,9 @@
 - 🔭 I’m working as Backend Developer
 - 📚 I'm currently learning Python and all the stuff about it
 - ⚡ Contact me on:
-  - [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dakinon)
-  - [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/everysinst)
-  - [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:efimov.n99@gmail.com)
+  - [![Telegram](https://img.shields.io/badge/-Telegram-f1f1f1?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dakinon)
+  - [![Instagram](https://img.shields.io/badge/-Instagram-f1f1f1?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/everysinst)
+  - [![Gmail](https://img.shields.io/badge/-gmail-f1f1f1?style=for-the-badge&logo=gmail&logoColor=C71610)](mailto:efimov.n99@gmail.com)
 
 ### 🛠 Experienced in
 
