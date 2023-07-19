@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About Me
 
-##### My name is Nikita and i'm a software engineer 💻
+#### My name is Nikita and i'm a software engineer 💻
   
 - 🔭 I’m working as Backend Developer
 - 📚 I'm currently learning Python and all the stuff about it
